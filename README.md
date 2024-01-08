@@ -3,11 +3,21 @@
 This is my first attempt at trying to make a mod for this game so this is pretty simple.
 
 
-# Includes these cosmetics:
+# I wear a mask with a frown/smile for hours at a time
+
+Ever wanted to wear on those strange masks you keep finding during your runs whilst searching for scrap but don't want the little side effect of it killing and possesing you and proceeding to hunt down your fellow crewmates?
+
+Well, now you can.
+
+# Includes:
 
 - Comedy
 
 - Tragedy
+
+![](https://imgur.com/EawGBaB)
+![](https://imgur.com/qdmdJ8M)
+
 
 # Credits:
 
