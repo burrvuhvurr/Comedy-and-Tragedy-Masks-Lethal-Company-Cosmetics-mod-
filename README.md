@@ -1,6 +1,3 @@
-# Comedy-and-Tragedy-Masks-Lethal-Company-Cosmetics-mod-
-#
-
 This is my first attempt at trying to make a mod for this game so this is pretty simple.
 
 
