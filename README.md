@@ -15,10 +15,6 @@ Well, now you can.
 
 - Tragedy
 
-![](https://imgur.com/EawGBaB)
-![](https://imgur.com/qdmdJ8M)
-
-
 # Credits:
 
 - [Comedy and Tragedy Mask models](https://makerworld.com/en/models/115123#profileId-123770[Cosmetic)
