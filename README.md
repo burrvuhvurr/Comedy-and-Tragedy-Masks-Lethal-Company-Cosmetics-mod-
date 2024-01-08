@@ -1,3 +1,5 @@
+#
+
 This is my first attempt at trying to make a mod for this game so this is pretty simple.
 
 
@@ -12,6 +14,9 @@ Well, now you can.
 - Comedy
 
 - Tragedy
+
+![](https://imgur.com/EawGBaB)
+![](https://imgur.com/qdmdJ8M)
 
 
 # Credits:
