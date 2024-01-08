@@ -15,8 +15,10 @@ Well, now you can.
 
 - Tragedy
 
-![](https://imgur.com/EawGBaB)
-![](https://imgur.com/qdmdJ8M)
+![](https://cdn.discordapp.com/attachments/1193772508864847922/1193773476759208006/20240107225802_2.png?ex=65adef30&is=659b7a30&hm=616bfb0cb372c19f943da55a7876396ecb74a9701465f5464c2545ee5ffc162d&)
+![](https://cdn.discordapp.com/attachments/1193772508864847922/1193773462964142130/20240107225802_1.png?ex=65adef2c&is=659b7a2c&hm=63a4c052db3c3aabaef47bf66a8d3e66fbb99c0e452830ee50459985820faa46&)
+
+
 
 
 # Credits:
